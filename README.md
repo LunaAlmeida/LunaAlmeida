@@ -21,3 +21,8 @@
 - 🌱 Estudando: Sistemas Multiagentes
 - 😄 Pronomes: Ela / Dela
 - 🎈 Curiosidade: 42
+
+<div>
+    ![Snake animation](https://github.com/LunaAlmeida/LunaAlmeida/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
