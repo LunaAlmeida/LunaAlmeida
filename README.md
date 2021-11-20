@@ -5,7 +5,7 @@
 
   <a href="https://github.com/LunaAlmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LunaAlmeida&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" width= "500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaAlmeida&layout=compact&langs_count=3&theme=bear"/>
+  <img height="180em" width= "500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaAlmeida&layout=compact&langs_count=4&theme=bear"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luna-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
