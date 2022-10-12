@@ -20,7 +20,7 @@
 **Sobre mim:**
 - 📖 Cursando: Engenharia da computação
 - 🌱 Estudando: Sistemas Multiagentes
-- 😄 Pronomes: Ela / Dela
+- 😄 Pronomes: Ela / Ele / Elu (gênero-fluido)
 - 🎈 Curiosidade: 42
 
 ##
