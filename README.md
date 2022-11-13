@@ -19,7 +19,7 @@
 * * *
 **Sobre mim:**
 - 📖 Cursando: Engenharia da computação
-- 🌱 Estudando: Sistemas Multiagentes
+- 🌱 Estudando: Aplicação de Machine Learning em Astrofísica
 - 😄 Pronomes: Ela / Ele / Elu (gênero-fluido)
 - 🎈 Curiosidade: 42
 
