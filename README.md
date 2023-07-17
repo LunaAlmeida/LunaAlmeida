@@ -4,23 +4,17 @@
 <div align="center">
 
   <a href="https://github.com/LunaAlmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LunaAlmeida&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaAlmeida&layout=compact&langs_count=7&theme=bear"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luna-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Luna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luna=Myql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Luna=Java" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="right" alt="Luna-pic" height="150" style="border-radius:200px;" src="https://media.discordapp.net/attachments/702292957847617577/910320594975854622/luna.gif?width=452&height=452">
 </div>
   
 * * *
 **Sobre mim:**
 - 📖 Cursando: Engenharia da computação
-- 🌱 Estudando: Aplicação de Machine Learning em Astrofísica
-- 😄 Pronomes: Ela / Ele / Elu (gênero-fluido)
-- 🎈 Curiosidade: 42
+- 🌱 Estudando: Sequential Pattern Mining 
+- 😄 Pronomes: Qualquer um 
+- 🎈 Curiosidade: 💜
 
 ##
 <div> 
