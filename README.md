@@ -12,8 +12,7 @@
 * * *
 **Sobre mim:**
 - 📖 Cursando: Engenharia da computação
-- 🌱 Estudando: Sequential Pattern Mining 
-- 😄 Pronomes: Qualquer um 
+- 🌱 Estudando: Plataforma de monitoramento Zabbix 
 - 🎈 Curiosidade: 💜
 
 ##
